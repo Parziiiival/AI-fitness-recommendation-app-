@@ -1,8 +1,6 @@
 # AI Fitness Recommendation System
 
-An intelligent, full-stack web application that uses Machine Learning to provide highly personalized workout and diet recommendations based on user metrics.
-
-![App Demo](https://via.placeholder.com/800x400?text=AI+Fitness+Recommendation+System)
+An intelligent, full-stack web application that uses Machine Learning to provide highly personalized workout and diet recommendations based on user metrics
 
 ## 🚀 Features
 
